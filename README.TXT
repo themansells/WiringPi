@@ -1,3 +1,10 @@
+Nicks Notes:
+
+Pinning Layout: 
+https://github.com/themansells/WiringPi/blob/093e0a17a40e064260c1f3233b1ccdf7e4c66690/wiringPi/wiringPi.c#L340
+
+
+
 Note
 ====
 
